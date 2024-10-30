@@ -70,4 +70,4 @@ Show all task todo:
 t-cli list todo
 ```
 
-This inspired by (roadmap.sh)[https://roadmap.sh/projects/task-tracker]
+This inspired by [roadmap.sh](https://roadmap.sh/projects/task-tracker)
