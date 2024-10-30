@@ -2,16 +2,16 @@
 Task tracker is a CLI application. It tracks your daily life task. To store tasks data it used JSON(data.json) file instead of SQL database.
 It have five type of command:
 
-1.Add task
-2.Update task
-3.Delete task
-4.Mark task
-5.List task
+1.Add task\
+2.Update task\
+3.Delete task\
+4.Mark task\
+5.List task\
 
-Every task have 3 state:
-state- 0 : It was not touch.
-state- 1 : It is in-progress.
-state-2 : It was completed.
+Every task have 3 state:\
+state- 0 : It was not touch.\
+state- 1 : It is in-progress.\
+state-2 : It was completed.\
 
 ##1.Add task:
 To add a new task you should enter below command:
